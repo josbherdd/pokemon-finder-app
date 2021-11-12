@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/pokemon-finder-app/static/css/main.6d75438d.chunk.css",
+    "main.js": "/pokemon-finder-app/static/js/main.c10519a5.chunk.js",
+    "main.js.map": "/pokemon-finder-app/static/js/main.c10519a5.chunk.js.map",
+    "runtime-main.js": "/pokemon-finder-app/static/js/runtime-main.8f7abef7.js",
+    "runtime-main.js.map": "/pokemon-finder-app/static/js/runtime-main.8f7abef7.js.map",
+    "static/js/2.db7ec172.chunk.js": "/pokemon-finder-app/static/js/2.db7ec172.chunk.js",
+    "static/js/2.db7ec172.chunk.js.map": "/pokemon-finder-app/static/js/2.db7ec172.chunk.js.map",
+    "index.html": "/pokemon-finder-app/index.html",
+    "static/css/main.6d75438d.chunk.css.map": "/pokemon-finder-app/static/css/main.6d75438d.chunk.css.map",
+    "static/js/2.db7ec172.chunk.js.LICENSE.txt": "/pokemon-finder-app/static/js/2.db7ec172.chunk.js.LICENSE.txt",
+    "static/media/Bug.235aa1af.svg": "/pokemon-finder-app/static/media/Bug.235aa1af.svg",
+    "static/media/Dark.ffd5fef0.svg": "/pokemon-finder-app/static/media/Dark.ffd5fef0.svg",
+    "static/media/Dragon.bbfee3f5.svg": "/pokemon-finder-app/static/media/Dragon.bbfee3f5.svg",
+    "static/media/Electric.36814671.svg": "/pokemon-finder-app/static/media/Electric.36814671.svg",
+    "static/media/Fairy.7930fe34.svg": "/pokemon-finder-app/static/media/Fairy.7930fe34.svg",
+    "static/media/Fighting.4ffffec5.svg": "/pokemon-finder-app/static/media/Fighting.4ffffec5.svg",
+    "static/media/Fire.3ca285cc.svg": "/pokemon-finder-app/static/media/Fire.3ca285cc.svg",
+    "static/media/Flying.185acbc5.svg": "/pokemon-finder-app/static/media/Flying.185acbc5.svg",
+    "static/media/Ghost.af4d1e78.svg": "/pokemon-finder-app/static/media/Ghost.af4d1e78.svg",
+    "static/media/Grass.2f497ad9.svg": "/pokemon-finder-app/static/media/Grass.2f497ad9.svg",
+    "static/media/Ground.761443bc.svg": "/pokemon-finder-app/static/media/Ground.761443bc.svg",
+    "static/media/Ice.de34cabb.svg": "/pokemon-finder-app/static/media/Ice.de34cabb.svg",
+    "static/media/Normal.2ba8a95a.svg": "/pokemon-finder-app/static/media/Normal.2ba8a95a.svg",
+    "static/media/Poison.9466e97a.svg": "/pokemon-finder-app/static/media/Poison.9466e97a.svg",
+    "static/media/Psychic.ad12cf61.svg": "/pokemon-finder-app/static/media/Psychic.ad12cf61.svg",
+    "static/media/Rock.9f9b4d01.svg": "/pokemon-finder-app/static/media/Rock.9f9b4d01.svg",
+    "static/media/Steel.9e484c48.svg": "/pokemon-finder-app/static/media/Steel.9e484c48.svg",
+    "static/media/Water.d6013547.svg": "/pokemon-finder-app/static/media/Water.d6013547.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f7abef7.js",
+    "static/js/2.db7ec172.chunk.js",
+    "static/css/main.6d75438d.chunk.css",
+    "static/js/main.c10519a5.chunk.js"
+  ]
+}
